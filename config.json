@@ -31,7 +31,7 @@
   "antiInbox": false,
   "language": "en",
   "nickNameBot": "一 𝗬𝗼𝘂𝗿 𝗠𝗶𝗻𝗲'𝗘𝗲ː › 📰🤍",
-  "prefix": "!",
+  "prefix": ".",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
